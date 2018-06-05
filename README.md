@@ -1,2 +1,1 @@
-# Sopha-SEAN
-Présentation
+# Sopha SEAN
