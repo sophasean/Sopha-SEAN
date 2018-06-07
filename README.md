@@ -19,6 +19,6 @@ Centres d'intérêts:
 - La musculation :
 [![ALONE 😞 FITNESS MOTIVATION 2018](https://img.youtube.com/vi/Zd0l62YyMac/0.jpg)](http://www.youtube.com/watch?v=Zd0l62YyMac)
 
-- Voyager:
+- Voyager : 
 
 
