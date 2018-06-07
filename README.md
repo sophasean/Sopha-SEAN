@@ -22,4 +22,11 @@ Centres d'intérêts:
 
 - Voyager : 
 
+![20160622_114016](https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg)
+
+Sites préférés:
+
+- https://www.gamekult.com/
+- https://www.reddit.com/
+
 
