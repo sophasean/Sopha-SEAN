@@ -16,7 +16,7 @@ Dans cette attente, je vous prie d'agréer, Madame, Monsieur, l'expression de me
 ## Centres d'intérêts:
 - Les jeux vidéos 
 
-- La musculation :
+- La musculation : https://www.youtube.com/watch?v=Zd0l62YyMac
 
 [![ALONE 😞 FITNESS MOTIVATION 2018](https://img.youtube.com/vi/Zd0l62YyMac/0.jpg)](http://www.youtube.com/watch?v=Zd0l62YyMac)
 
@@ -28,5 +28,3 @@ Dans cette attente, je vous prie d'agréer, Madame, Monsieur, l'expression de me
 
 - https://www.gamekult.com/
 - https://www.reddit.com/
-
-
