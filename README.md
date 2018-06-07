@@ -13,7 +13,7 @@ Je me tiens à votre disposition pour tout renseignement complémentaire et vous
 Dans cette attente, je vous prie d'agréer, Madame, Monsieur, l'expression de mes salutations distinguées.
 
 
-Centres d'intérêts:
+## Centres d'intérêts:
 - Les jeux vidéos 
 
 - La musculation :
@@ -24,7 +24,7 @@ Centres d'intérêts:
 
 ![20160622_114016](https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg)
 
-Sites préférés:
+## Sites préférés:
 
 - https://www.gamekult.com/
 - https://www.reddit.com/
