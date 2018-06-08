@@ -1,5 +1,6 @@
 # Sopha SEAN
 06 51 99 99 20
+
 sophasean@gmail.com
 
 Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.
