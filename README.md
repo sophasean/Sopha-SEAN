@@ -28,5 +28,5 @@ Dans cette attente, je vous prie d'agréer, Madame, Monsieur, l'expression de me
 
 ## Sites préférés:
 
-- <a href="https://www.gamekult.com/">
-- https://www.reddit.com/
+- <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
+- <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
