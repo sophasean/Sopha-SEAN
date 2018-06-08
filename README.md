@@ -1,3 +1,6 @@
+<!DOCTYPE html>
+<html>
+
 # Sopha SEAN
 
 ### sophasean@gmail.com
@@ -30,3 +33,5 @@ Dans cette attente, je vous prie d'agréer, Madame, Monsieur, l'expression de me
 
 - <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
+
+</html>
