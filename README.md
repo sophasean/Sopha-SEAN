@@ -1,5 +1,3 @@
-<html>
-
 # Sopha SEAN
 ## sophasean@gmail.com
 
@@ -32,5 +30,3 @@
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
 
 
-</body>
-</html>
