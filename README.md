@@ -2,8 +2,10 @@
 <head>
 <title>Ma présentation</title>
 </head>
+<style>  
 div {
 margin-bottom: 50px;
+}
 </style>
 
 <h1>Sopha SEAN</h1>
