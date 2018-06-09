@@ -2,9 +2,19 @@
 <head>
 <title>Ma présentation</title>
 </head>
+  
+<style>
+div {
+    border: 1px solid black;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 80px;
+}
+</style>
 
 <h1>Sopha SEAN</h1>
-<a href="mailto:sophasean@gmail.com">sophasean@gmail.com</a>
+<div><a href="mailto:sophasean@gmail.com">sophasean@gmail.com</a></div>
 
 <body>
 <p>Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.</p>
