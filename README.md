@@ -1,7 +1,7 @@
-<!DOCTYPE html>
 <html>
-        
+<title>
 <h1>Sopha SEAN</h1>
+</title>
 <h2>sophasean@gmail.com</h2>
 
 
