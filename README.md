@@ -4,7 +4,7 @@
 </head>
 
 <h1>Sopha SEAN</h1>
-<h2>sophasean@gmail.com</h2>
+<h2><a href="mailto:sophasean@gmail.com">sophasean@gmail.com</a></h2>
 
 <body>
 <p>Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.</p>
@@ -29,10 +29,10 @@
 <li>Voyager :</li>
 
 <img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square">
+</ul>
 
-
+<ul>
 <h4>Sites préférés:</h4>
-
 <li>
   <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 </li>
@@ -45,6 +45,7 @@
 
 </ul>
 </div>
+
 
 </body>
 </html>
