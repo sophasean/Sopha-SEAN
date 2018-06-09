@@ -17,8 +17,6 @@
 
 <p>Je me tiens à votre disposition pour tout renseignement complémentaire et vous remercie de l'attention que vous porterez à ma demande.</p>
 
-</body>
-
 
 ## Centres d'intérêts:
 - Les jeux vidéos 
@@ -37,4 +35,5 @@
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
 
 
+</body>
 </html>
