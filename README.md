@@ -1,6 +1,5 @@
-<!DOCTYPE html>
 <html>
-  <head><title> Ma première page html</title><head>
+<head><title> Ma première page html</title><head>
 
 <h1>Sopha SEAN</h1>
 <h2>sophasean@gmail.com</h2>
