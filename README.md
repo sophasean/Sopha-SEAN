@@ -1,5 +1,5 @@
 # Sopha SEAN
-## sophasean@gmail.com
+sophasean@gmail.com
 
 
 Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.
@@ -24,7 +24,7 @@ Je me tiens à votre disposition pour tout renseignement complémentaire et vous
 
 ![20160622_114016](https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg)
 
-## Sites préférés:
+### Sites préférés:
 
 - <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
