@@ -4,7 +4,7 @@
 </head>
 
 <h1>Sopha SEAN</h1>
-<h2><a href="mailto:sophasean@gmail.com">sophasean@gmail.com</a></h2>
+<a href="mailto:sophasean@gmail.com">sophasean@gmail.com</a>
 
 <body>
 <p>Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.</p>
