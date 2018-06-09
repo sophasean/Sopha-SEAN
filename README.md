@@ -1,5 +1,5 @@
 <html>
-  
+
 <h1>Sopha SEAN</h1>
 <h2>sophasean@gmail.com</h2>
 
@@ -14,24 +14,32 @@
 
 <p>Je me tiens à votre disposition pour tout renseignement complémentaire et vous remercie de l'attention que vous porterez à ma demande.</p>
 
-
+  
 <h3>Centres d'intérêts:</h3>
 
-- Les jeux vidéos 
+<ul>
+<li>Les jeux vidéos</li>
 
-- La musculation, fitness :
+<li>La musculation, fitness :
 
-[![](http://img.youtube.com/vi/Zd0l62YyMac/0.jpg)](http://www.youtube.com/watch?v=Zd0l62YyMac "")
+(http://www.youtube.com/watch?v=Zd0l62YyMac)</li>
 
-- Voyager : 
+<li>Voyager :
 
-<img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square">
+<img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square"></li>
 
 <h4>Sites préférés:</h4>
 
-- <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
+<li>
+  <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
+</li>
 
-- <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
+<li>
+  <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
+</li>
+
+</ul>
+
 
 </body>
 </html>
