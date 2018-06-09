@@ -1,3 +1,5 @@
+<html>
+
 # Sopha SEAN
 ## sophasean@gmail.com
 
@@ -29,4 +31,4 @@ Je me tiens à votre disposition pour tout renseignement complémentaire et vous
 - <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
 
-
+</html>
