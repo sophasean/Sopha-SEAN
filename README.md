@@ -18,13 +18,12 @@
 <h3>Centres d'intérêts:</h3>
 
 <ul>
-<li>Les jeux vidéos</li>
-
+  
 <li>La musculation, fitness :
-
-
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Zd0l62YyMac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 </li>
+
+<li>Les jeux vidéos</li>
 
 <li>Voyager :
 
