@@ -1,6 +1,6 @@
 <html>
 <head>
-<title>Ma première page</title>
+<title>Présentation</title>
 </head>
 
 <h1>Sopha SEAN</h1>
