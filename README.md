@@ -18,16 +18,15 @@
 <h3>Centres d'intérêts:</h3>
 
 <ul>
+<li>Les jeux vidéos</li>
   
 <li>La musculation, fitness :</li>
   
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Zd0l62YyMac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-<li>Les jeux vidéos</li>
+<li>Voyager :</li>
 
-<li>Voyager :
-
-<img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square"></li>
+<img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square">
 
 <h4>Sites préférés:</h4>
 
