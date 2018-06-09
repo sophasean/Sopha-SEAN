@@ -22,7 +22,8 @@
 
 <li>La musculation, fitness :
 
-(http://www.youtube.com/watch?v=Zd0l62YyMac)</li>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zd0l62YyMac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</li>
 
 <li>Voyager :
 
