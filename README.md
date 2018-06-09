@@ -19,9 +19,9 @@
 
 <ul>
   
-<li>La musculation, fitness :
+<li>La musculation, fitness :</li>
+  
 <iframe width="420" height="315" src="https://www.youtube.com/embed/Zd0l62YyMac" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-</li>
 
 <li>Les jeux vidéos</li>
 
