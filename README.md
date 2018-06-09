@@ -19,9 +19,9 @@
 
 - Les jeux vidéos 
 
-- La musculation, fitness : <a href="https://www.youtube.com/watch?v=Zd0l62YyMac">ALONE 😞 FITNESS MOTIVATION 2018</a>
+- La musculation, fitness :
 
-[![ALONE 😞 FITNESS MOTIVATION 2018](https://img.youtube.com/vi/Zd0l62YyMac/0.jpg)](http://www.youtube.com/watch?v=Zd0l62YyMac)
+[![](http://img.youtube.com/vi/Zd0l62YyMac/0.jpg)](http://www.youtube.com/watch?v=Zd0l62YyMac "")
 
 - Voyager : 
 
