@@ -1,9 +1,6 @@
 <html>
-<head><title>
 
 # Sopha SEAN
-</head></title>
-
 ## sophasean@gmail.com
 
 <body>
