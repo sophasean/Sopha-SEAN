@@ -19,7 +19,6 @@
 
 <div>
 <h3>Centres d'intérêts:</h3>
-
 <ul>
 <li>Les jeux vidéos</li>
   
@@ -32,13 +31,14 @@
 <img src="https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg" alt="Time Square">
 
 <h4>Sites préférés:</h4>
-
 <li>
   <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 </li>
-
 <li>
   <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
+</li>
+<li>
+  <a href="https://www.hardware.fr/">HardWare.fr - Le Guide du HardWare & de l'Optimisation PC</a>
 </li>
 
 </ul>
