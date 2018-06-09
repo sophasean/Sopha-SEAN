@@ -1,7 +1,7 @@
 <html>
   
-# Sopha SEAN
-## sophasean@gmail.com
+<h1>Sopha SEAN</h1>
+<h2>sophasean@gmail.com</h2>
 
 <body>
 <p>Âgé de 34 ans, je suis très attiré par les nombreux métiers et débouchés qu'offres le numérique. A l'adolescence, j'ai eu mon premier pc personnel que je bricolais parfois au niveau hardware. Je souhaite suivre une formation de développeur web au sein de votre établissement.</p>
@@ -15,7 +15,8 @@
 <p>Je me tiens à votre disposition pour tout renseignement complémentaire et vous remercie de l'attention que vous porterez à ma demande.</p>
 
 
-## Centres d'intérêts:
+<h3>Centres d'intérêts:</h3>
+
 - Les jeux vidéos 
 
 - La musculation, fitness : <a href="https://www.youtube.com/watch?v=Zd0l62YyMac">ALONE 😞 FITNESS MOTIVATION 2018</a>
@@ -26,7 +27,7 @@
 
 ![20160622_114016](https://user-images.githubusercontent.com/39929423/41124622-d63f76a4-6aa2-11e8-9bd8-d7d59e05d058.jpg)
 
-## Sites préférés:
+<h4>Sites préférés:</h4>
 
 - <a href="https://www.gamekult.com/">Gamekult - Jeux vidéo PC et consoles: tout l’univers des joueurs</a>
 - <a href="https://www.reddit.com/">reddit: the front page of the internet</a>
