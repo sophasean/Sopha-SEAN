@@ -4,7 +4,8 @@
 </head>
 <style>  
 div {
-margin-bottom: 50px;
+margin-top: 30px;
+margin-bottom: 30px;
 }
 </style>
 
